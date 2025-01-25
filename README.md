@@ -10,7 +10,7 @@ Games that don’t run on the current version of macOS, games I haven’t tested
 Feel free to PR additions, edits, or recategorizations.
 
 #### Legend:  
-⭐️ - recommended    
+
 🌀 - DRM-free  
 🪫 - high power consumption  
 🧑‍💻 - good with trackpad and keyboard  
@@ -30,22 +30,23 @@ Feel free to PR additions, edits, or recategorizations.
 | Shenzen IO | Cool microcontroller-themed programming game |  🧑‍💻 |
 | Golf Peaks | Minigolf, but moves are a finite amount of cards. | 🌀 🧑‍💻 |
 | A Little to the Left | Create oddly satisfying compositions with household items | 🧑‍💻 |
-| Wilmot’s Warehouse |  |  |
+| Wilmot’s Warehouse | Organize your own warehouse of abstract shapes. Hectic at times |  |
+| Wilmot works it Out| Chill take on the classic jigsaw. You’re Wilmot from Wilmot’s Warehouse, taking a break and assembling pretty pictures | 🧑‍💻 |
 | Cloud Gardens |  | 🌀 🧑‍💻 |
-| SUPERHOT | ‘Shooter’, in which time moves when you move | 🌀 |
+| SUPERHOT | ‘Shooter’, in which time moves when you move | 🌀 🪫 |
 | Firmament | 3D puzzle adventure game, from the minds behind Mist and Raven. One of the most resource-intensive games on this list. | 🪫 🧑‍💻 |
 
 ### Roguelikes/lites
 | Title | Description | Special |
 |:--|:--|:--|
-| Hades | 📱 |  |
+| Hades |  | 📱 |
 | Balatro | Poker roguelite. Very addicting | 🧑‍💻 📱 🕹️ |
 | Luck be a Landlord | Slot machine roguelite | 🧑‍💻 |
 | Peglin | Peggle roguelite | 🧑‍💻 |
-| Loop Hero |  | 🧑‍💻 📱 |
-| Enter the Gungeon | | 🌀 |
-| Dead Cells | | |
-| Cult of the Lamb | | 🌀 |
+| Loop Hero | Kind of a reverse tower defense? You place entities on the map, while your character goes endlessly in a loop, gaining levels when fighting enemies etc. | 🧑‍💻 📱 |
+| Enter the Gungeon |  | 🌀 |
+| Dead Cells | | 🌀 |
+| Cult of the Lamb | Animal crossing meets the Binding of Isaac. Base building game, with combat excursions | 🌀 |
 
 ### Racing/Cars
 | Title | Description | Special |
@@ -75,22 +76,22 @@ Feel free to PR additions, edits, or recategorizations.
 ### Action adventure
 | Title | Description | Special |
 |:--|:--|:--|
-| Bugsnax |  | 🌀 🪫 📱 |
-| Eastward |  |  |
-| Pikuniku |  |  |
-| Stray |  | 🪫 |
-| Psychonauts | | 🪫 |
-| GRIS |  | 🧑‍💻 📱 🕹️ |
-| Subnautica |  | 🪫 |
+| Bugsnax | Gonna eat ‘em all. Sort of a first person monster catching game, with a somewhat deep story | 🌀 🪫 📱 |
+| Eastward | Secret of mana style action rpg, with beautiful pixel art |  |
+| Pikuniku | Silly anti-capitalist platformer |  |
+| Stray | Cat | 🪫 |
+| Psychonauts 2 | 3D platformer/collectaton. | 🪫 |
+| GRIS | Beautiful narrative watercolored platformer | 🧑‍💻 📱 🕹️ |
+| Subnautica | Thalassophobia the game | 🪫 |
 
 ### Metroidvania
 | Title | Description | Special |
 |:--|:--|:--|
 | Hollow Knight | The face of modern metroidvanias.  |  |
 | Minishoot Adventures | Topdown Zelda, but everyone is a sentient spaceship |  |
-| Minit |  | 📱 |
-| TUNIC |  | 🌀 |
-| Ninesouls |  |  |
+| Minit | Story driven ‘metroidvania’. Your character can live for one minute (at a time), but you keep your items and knowledge | 🧑‍💻 📱 |
+| TUNIC | Beautiful low poly zelda-fez-souls like. | 🌀 |
+| Ninesouls | Soulsvania from a studio that previously released only horror games. Very hard |  |
 
 ### Narrative / Cozy / Chill
 | Title | Description | Special |
@@ -101,7 +102,7 @@ Feel free to PR additions, edits, or recategorizations.
 | A Short Hike |  | 🌀 |
 | TOEM |  | 🧑‍💻 |
 | Chicory: A Colorful Tale | | 🧑‍💻 |
-| Before Your Eyes |  | 📱 |
+| Before Your Eyes | Narrative, the scene changes as soon as you blink irl (needs camera access) | 📱 |
 | Unpacking | | 🧑‍💻 |
 
 
@@ -111,13 +112,13 @@ Feel free to PR additions, edits, or recategorizations.
 | Return to Monkey Island |  | 🧑‍💻 |
 | Samorost 3 |  | 🧑‍💻 📱 🕹️ |
 | Thimbleweed Park | One of the best modern point and click games. Great narration, characters, and setting. | 🧑‍💻 |
-| Hypnospace Outlaw | 90s internet simulator. Surprisingly alive set of characters, very good and believable writing | 🧑‍💻 |
+| Hypnospace Outlaw | 90s internet simulator. Surprisingly alive set of characters, very good and believable writing. | 🧑‍💻 |
 |  | | |
 
 ### Rhythm
 | Title | Description | Special |
 |:--|:--|:--|
-| A Dance of Fire and Ice |  | 🧑‍💻 📱 |
+| A Dance of Fire and Ice | One button rhythm game, challenging. | 🧑‍💻 📱 |
 | Sayonara Wild Hearts | Not strictly a rhythm game, but very much music-focused. An indie pop music album as a video game, with striking art style. | 🧑‍💻 📱 🕹️ |
 | Melatonin | Lofi rhythm heaven. | 🧑‍💻 |
 
@@ -126,7 +127,7 @@ Feel free to PR additions, edits, or recategorizations.
 |:--|:--|:--|
 | Thank Goodness You’re Here |  | 🧑‍💻 |
 | What the Golf?! | Fun minigolf game with ever-changing mechanics. Can be challenging at times. | 🧑‍💻 📱 🕹️ |
-| Wobbledogs |  | 🧑‍💻 |
+| Wobbledogs | Weird. | 🧑‍💻 |
 | Untitled Goose Game | Be a goose, cause havoc. Under the quirky facade, there’s a competent stealth game. | |
 
 ### FPS adjacent
